@@ -7,5 +7,6 @@
 ## Enviroment setting
 * Step 1: Go to "Intel Realsense D435i" website.
 ```
-https://www.intelrealsense.com/depth-camera-d435i/#Developers
+[Intel Realsense D435i](https://www.intelrealsense.com/depth-camera-d435i/#Developers)
 ```
+* Step 2
