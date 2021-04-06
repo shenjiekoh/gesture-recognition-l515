@@ -7,7 +7,7 @@
 ## Enviroment setting
 * Step 1: Go to "Intel Realsense D435i" website.
  ```
-  (https://www.intelrealsense.com/depth-camera-d435i/#Developers)
+ https://www.intelrealsense.com/depth-camera-d435i/#Developers
 ```
 * Step 2: Click "Developers" and find "SDK 2.0", click it.
 * Step 3: Scroll down and download "Intel Realsense Viewer".
