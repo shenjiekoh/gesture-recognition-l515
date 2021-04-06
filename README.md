@@ -1,2 +1,9 @@
-# intel-realsense
+# Intel Realsense D435i
 ## Goal
+* RGB and depth image streaming
+* Read and save the RGB and depth video on real-time
+* Save numpy array of video in depth
+
+## Enviroment setting
+* Step 1: Go to "Intel Realsense D435i" website.
+![GITHUB]("Capture")
