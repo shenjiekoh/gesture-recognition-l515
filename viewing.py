@@ -65,9 +65,9 @@ while True:
 
 # Convert lists to numpy arrays and save them as .npy
 depth_np = np.array(depth_list)
-color_np = np.array(color_list)
+#color_np = np.array(color_list)
 np.save('Depth Data', depth_np)
-np.save('RGB Data', color_np)
+#np.save('RGB Data', color_np)
 
 # Stop streaming
 pipeline.stop()
