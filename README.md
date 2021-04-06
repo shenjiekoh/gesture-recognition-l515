@@ -14,8 +14,8 @@ https://www.intelrealsense.com/depth-camera-d435i/#Developers
 * Step 4: Run program, and you have finished downloading.
 
 ## Coding environment setting
-1. Download Anaconda (Individual Edition).
+* Step 1: Download Anaconda (Individual Edition).
 ```
 https://www.anaconda.com/products/individual
 ```
-2. 
+* Step 2: 
