@@ -9,10 +9,10 @@
 ```
 https://www.intelrealsense.com/depth-camera-d435i/#Developers
 ```
-![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/IntelRealsense.PNG)
+![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/IntelRealsense.PNG)
 * Step 2: Click "Developers" and find "SDK 2.0", click it.
 * Step 3: Scroll down and download "Intel Realsense Viewer".
-![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/Viewer.PNG)
+![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/Viewer.PNG)
 * Step 4: Run program, and you have finished downloading.
 
 ## Coding environment setting
@@ -20,4 +20,5 @@ https://www.intelrealsense.com/depth-camera-d435i/#Developers
 ```
 https://www.anaconda.com/products/individual
 ```
-* Step 2: 
+* Step 2: Click "Download" and wait for installing.
+![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/Anaconda.PNG)
