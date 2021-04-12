@@ -25,6 +25,5 @@
 * Step 3: After installing Anaconda, go to **Anaconda Navigator** and install **Spyder**.
 * Step 4: Now, we are going to create an environment that run in Python 3.7.  Open **Anaconda Prompt**.
 * Step 5: Enter ```conda env list``` to check you current available environment, then enter ```conda create --name **your name** python=3.7```.
-![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/Prompt.PNG)
 * Step 6: Follow the instructions to finish the installation.  When the installation is finished, you will see this environment in **Anaconda Navigator**.  Install **Spyder** again, you have done installing you coding enviroment.
-* ![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/env.PNG)
+![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/env.png)
