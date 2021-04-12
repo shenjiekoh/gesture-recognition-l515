@@ -6,9 +6,7 @@
 
 ##  How to download Intel Realsense SDK 2.0
 * Step 1: Go to **Intel Realsense D435i** website.
-```
 [Intel Realsense D435i](https://www.intelrealsense.com/depth-camera-d435i/#Developers)
-```
 ![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/IntelRealsense.PNG)
 * Step 2: Click **Developers** and find **SDK 2.0**, click it.
 * Step 3: Scroll down and download **Intel Realsense Viewer**.
@@ -17,9 +15,7 @@
 
 ## Coding environment setting
 * Step 1: Download Anaconda (Individual Edition).
-```
-[Download Anaconda(]https://www.anaconda.com/products/individual)
-```
+[Download Anaconda](https://www.anaconda.com/products/individual)
 * Step 2: Click **Download** and wait for installing.
 ![](https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/Anaconda.PNG)
 * Step 3: After installing Anaconda, go to **Anaconda Navigator** and install **Spyder**.
