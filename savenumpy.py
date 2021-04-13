@@ -75,6 +75,7 @@ while True:
         depth.release()
         depth_numpy = np.concatenate(depth_list,axis = 2)
         color_numpy = np.concatenate(color_list,axis = 3)
+        # Enter the path and filename that you want to save (I saved them at my desktop)
         np.save('C:/Users/koh/Desktop/Depth Data', depth_numpy)
         np.save('C:/Users/koh/Desktop/RGB Data', color_numpy)
         break
