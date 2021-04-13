@@ -4,8 +4,9 @@
 * Read and save the RGB and depth video on real-time
 * Save numpy array of video in depth
 
+<p align = "center">
 <img src="https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/IMG20210413161226.jpg" width=50% height=50%>
-
+</p>
 
 ##  How to download Intel Realsense SDK 2.0
 * Step 1: Go to **Intel Realsense D435i** website.
