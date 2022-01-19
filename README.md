@@ -1,4 +1,4 @@
-# Intel Realsense D435i
+# Intel Realsense L515
 ## Goal
 * RGB and depth image streaming
 * Read and save the RGB and depth video on real-time
