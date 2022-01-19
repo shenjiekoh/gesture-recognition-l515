@@ -5,13 +5,13 @@
 * Save numpy array of video in depth
 
 <p align = "center">
-<img src="https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/IMG20210413161226.jpg" width=50% height=50%>
+<img src="https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/lidar_camera_gallery_6.jpg" width=50% height=50%>
 </p>
 
 ##  How to download Intel Realsense SDK 2.0
-* Step 1: Go to **Intel Realsense D435i** website.
+* Step 1: Go to **Intel Realsense L515** website.
 
-  [Intel Realsense D435i](https://www.intelrealsense.com/depth-camera-d435i/#Developers)
+  [Intel Realsense 515](https://www.intelrealsense.com/lidar-camera-l515/)
 
 ![](image/IntelRealsense.PNG)
 * Step 2: Click **Developers** and find **SDK 2.0**, click it.
