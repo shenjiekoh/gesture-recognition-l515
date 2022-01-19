@@ -46,4 +46,6 @@ Some of the codes are based on many authors, including:
 * pytorch_i3d.py: The model structure of I3D model (based on "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset")
 * train_model.py: Train the model
 
+## The datasets
+mp4 files include RGB and depth colormap video
 
