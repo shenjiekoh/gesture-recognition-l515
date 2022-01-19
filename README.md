@@ -40,31 +40,35 @@ Some of the codes are based on many authors, including:
 * pytorch_i3d.py and train_model.py are based on https://github.com/piergiaj/pytorch-i3d 
 
 ## Usage of Codes
-* streaming_get_numpy.py: Capturing video from Intel Realsense L515 LiDAR Camera, then convert the datas into RGB/Depth mp4 files and npy files
-* convert_grayscale.py: Processing the datas and convert them into trainable datas
-* dataset.py: Make dataset (including training set and validation set) from csv files and npy files
-* pytorch_i3d.py: The model structure of I3D model (based on "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset")
-* train_model.py: Train the model
+* streaming_get_numpy.py: Capturing video from Intel Realsense L515 LiDAR Camera, then convert the datas into RGB/Depth mp4 files and npy files.
+* convert_grayscale.py: Processing the datas and convert them into trainable datas.
+* dataset.py: Make dataset (including training set and validation set) from csv files and npy files.
+* pytorch_i3d.py: The model structure of I3D model (based on "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset").
+* train_model.py: Train the model.
 
 ## The datasets
-* mp4 files include RGB and depth colormap videos
-* npy files include 8-bit RGB raw datas and 16-bit depth raw datas
+* mp4 files include RGB and depth colormap videos.
+* npy files include 8-bit RGB raw datas and 16-bit depth raw datas.
 
-**The meaning of mp4 and npy filename: modality_subject_floor_trial**
+**The meaning of mp4 and npy filename: modality_subject_floor_trial.**
 >* modality: rgb/depth
 >* subject: 1, 2, ...
 >* floor: 1, 2, ..., B1, B2, ...
 >* trial: 1, 2, ...
 
+**Screenshots**
 
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/81953068/150067796-91f34dba-050e-4d62-bc90-eeffefdd73d3.png" width=50% height=50%>
+</p>
 
-https://user-images.githubusercontent.com/81953068/150064757-0e488cfa-f794-4f2d-b0dc-c04b11ceb1e7.mp4
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/81953068/150067842-cba83c7b-5944-49c0-974a-e67b42b10ad2.png" width=50% height=50%>
+</p>
 
+Complete mp4 files are in ```sample_videos``` folder.
 
-
-https://user-images.githubusercontent.com/81953068/150064774-cea91099-9606-4f16-ac9d-ed1040450cdb.mp4
-
-After processing, the data should be in the size of 90 frames * 224 pixels * 224 pixels
+After processing, the data should be in the size of 90 frames * 224 pixels * 224 pixels.
 <p align = "center">
 <img src="https://github.com/SHENJIEKOH/intel-realsense/blob/main/image/result.png" width=50% height=50%>
 </p>
