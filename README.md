@@ -48,4 +48,6 @@ Some of the codes are based on many authors, including:
 
 ## The datasets
 mp4 files include RGB and depth colormap video
-
+**The meaning of mp4 filename: modality_subject_floor_trial**
+![](sample_video/rgb_1_1_1.mp4)
+![](sample_video/depth_1_1_1.mp4)
