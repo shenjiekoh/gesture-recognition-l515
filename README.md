@@ -1,5 +1,5 @@
-# Intel Realsense L515
-## Goal
+# Using Intel Realsense L515 to Recognize Elevator Floor Hand Gestures
+## Goals
 * RGB and depth image streaming
 * Read and save the RGB and depth video on real-time
 * Save numpy array of video in depth
@@ -33,3 +33,4 @@
 * Step 6: Follow the instructions to finish the installation.  When the installation is finished, you will see this environment in **Anaconda Navigator**.  Install **Spyder** again, you have done installing you coding enviroment.
 ![](image/env.png)
 
+## Code
