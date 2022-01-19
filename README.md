@@ -34,10 +34,16 @@
 ![](image/env.png)
 
 ## Code Source
-* Some of the codes are based on many authors, including:
+Some of the codes are based on many authors, including:
 * streaming_get_numpy.py is based on https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples
 * dataset.py is based on https://github.com/piergiaj/pytorch-i3d and https://github.com/aladdinpersson/Machine-Learning-Collection
 * pytorch_i3d.py and train_model.py are based on https://github.com/piergiaj/pytorch-i3d 
 
 ## Usage of Codes
-* 
+* streaming_get_numpy.py: Capturing video from Intel Realsense L515 LiDAR Camera, then convert the datas into RGB/Depth mp4 files and npy files
+* convert_grayscale.py: Processing the datas and convert them into trainable datas
+* dataset.py: Make dataset (including training set and validation set) from csv files and npy files
+* pytorch_i3d.py: The model structure of I3D model (based on "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset")
+* train_model.py: Train the model
+
+
