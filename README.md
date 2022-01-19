@@ -33,4 +33,11 @@
 * Step 6: Follow the instructions to finish the installation.  When the installation is finished, you will see this environment in **Anaconda Navigator**.  Install **Spyder** again, you have done installing you coding enviroment.
 ![](image/env.png)
 
-## Code
+## Code Source
+* Some of the codes are based on many authors, including:
+* streaming_get_numpy.py is based on https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples
+* dataset.py is based on https://github.com/piergiaj/pytorch-i3d and https://github.com/aladdinpersson/Machine-Learning-Collection
+* pytorch_i3d.py and train_model.py are based on https://github.com/piergiaj/pytorch-i3d 
+
+## Usage of Codes
+* 
