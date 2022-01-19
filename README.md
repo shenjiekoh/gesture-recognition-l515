@@ -47,9 +47,10 @@ Some of the codes are based on many authors, including:
 * train_model.py: Train the model
 
 ## The datasets
-mp4 files include RGB and depth colormap video
+mp4 files include RGB and depth colormap videos
+npy files include 8-bit RGB datas and 16-bit depth datas
 
-**The meaning of mp4 filename: modality_subject_floor_trial**
+**The meaning of mp4 and npy filename: modality_subject_floor_trial**
 
 
 
@@ -59,3 +60,4 @@ https://user-images.githubusercontent.com/81953068/150064757-0e488cfa-f794-4f2d-
 
 https://user-images.githubusercontent.com/81953068/150064774-cea91099-9606-4f16-ac9d-ed1040450cdb.mp4
 
+After processing, the data should be in the size of 90 frames*224 pixels*224 pixels
